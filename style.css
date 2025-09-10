@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: "Arial Black", sans-serif;
+  background: #111;
+  color: #f5f5f5;
+}
+
+h2 {
+  color: #ff5733;
+  text-shadow: 2px 2px 5px black;
+}
+
+#gameCanvas {
+  background: linear-gradient(to top, #2d6a4f, #95d5b2); /* forest style */
+  border: 3px solid #ff5733;
+  display: block;
+  margin: auto;
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.7);
+}
